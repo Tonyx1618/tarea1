@@ -1,0 +1,8 @@
+C:\Users\Anthony Retana\source\repos\Tarea1\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Anthony Retana\source\repos\Tarea1\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Anthony Retana\source\repos\Tarea1\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Anthony Retana\source\repos\Tarea1\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\Anthony Retana\source\repos\Tarea1\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anthony Retana\source\repos\Tarea1\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Anthony Retana\source\repos\Tarea1\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Anthony Retana\source\repos\Tarea1\Proyecto\obj\Debug\Proyecto.pdb
